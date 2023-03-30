@@ -1,2 +1,2 @@
 # Chef
-Voici des playbooks pour puppet
+Voici des playbook pour puppet
